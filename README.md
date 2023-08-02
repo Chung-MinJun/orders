@@ -15,5 +15,5 @@ git branch
 #위치바꾸끼
 git checkout main
 
-#pull
+#풀 당기기
 git pull origin main
